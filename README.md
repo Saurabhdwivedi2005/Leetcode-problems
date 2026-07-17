@@ -11,4 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0001-two-sum) |
+| [0142-linked-list-cycle-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
