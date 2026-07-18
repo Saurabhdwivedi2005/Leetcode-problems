@@ -28,8 +28,10 @@ public:
 
                 if (mp[card] == 0)
                     return false;
-
-                mp[card]--;
+                    mp[card]--;
+            }
+            while(!maxheap.empty() && mp[maxheap.top()] == 0){
+                maxheap.pop();
             }
                
         }
