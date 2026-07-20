@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
