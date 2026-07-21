@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
 | [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
