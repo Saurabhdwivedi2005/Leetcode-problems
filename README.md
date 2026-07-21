@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0001-two-sum) |
+| [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0704-binary-search) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0142-linked-list-cycle-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -89,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
