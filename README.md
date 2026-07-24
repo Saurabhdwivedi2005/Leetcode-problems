@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 ## Enumeration
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0206-reverse-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
