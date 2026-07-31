@@ -13,17 +13,17 @@ public:
     ListNode* oddEvenList(ListNode* head) {
          if(head == nullptr || head->next == nullptr)
             return head;
-        ListNode*slow=head;
-        ListNode*fast=head->next;
-        ListNode*newhead=fast;
-        while(fast!=nullptr && fast->next!=nullptr){
-           slow->next=fast->next;
-           slow=slow->next;
-        //    connect for even node
-            fast->next=slow->next;
-            fast=fast->next; 
+        ListNode*odd=head;
+        ListNode*even=head->next;
+        ListNode*newhead=even;
+        while(even!=nullptr && even->next!=nullptr){
+            odd->next=even->next;
+            even->next=even->next->next;
+            odd=odd->next;
+            even=even->next;
+            
         }
-        slow->next =newhead;
+        odd->next =newhead;
        
         return head;
 
