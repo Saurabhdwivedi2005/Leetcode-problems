@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0198-house-robber) |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
