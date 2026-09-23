@@ -3,48 +3,55 @@ public:
     int minOperations(vector<int>& nums, int x) {
         int n = nums.size();
 
-        int sum = 0;
-        for(int i = 0; i < n; i++) {
-            sum += nums[i];
-        }
-        int remsum = sum - x;
+        int totalSum = 0;
 
-        if(remsum < 0) {
+        for (int i = 0; i < n; i++) {
+            totalSum += nums[i];
+        }
+
+        // x is greater than total sum
+        if (totalSum < x) {
             return -1;
         }
-        if(remsum == 0) {
+
+        // We need to keep a subarray with this sum
+        int target = totalSum - x;
+
+        // If target = 0, we keep nothing
+        if (target == 0) {
             return n;
         }
 
         unordered_map<int, int> mp;
         mp[0] = -1;
 
-        int prefix = 0;
-        int longestsubarray = -1;
+        int prefixSum = 0;
+        int longestSubarray = -1;
 
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
 
-            prefix += nums[i];
+            prefixSum += nums[i];
 
-            int findsum = prefix - remsum;
+            int findSum = prefixSum - target;
 
-            if(mp.find(findsum) != mp.end()) {
-                int idx = mp[findsum];
+            if (mp.find(findSum) != mp.end()) {
+                int idx = mp[findSum];
 
-                longestsubarray = max(
-                    longestsubarray,
-                    i - idx
-                );
+                longestSubarray =
+                    max(longestSubarray, i - idx);
             }
-            if(mp.find(prefix) == mp.end()) {
-                mp[prefix] = i;
+
+            // Store first occurrence only
+            if (mp.find(prefixSum) == mp.end()) {
+                mp[prefixSum] = i;
             }
         }
 
-        if(longestsubarray == -1) {
+        // No subarray with target sum
+        if (longestSubarray == -1) {
             return -1;
         }
 
-        return n - longestsubarray;
+        return n - longestSubarray;
     }
 };
