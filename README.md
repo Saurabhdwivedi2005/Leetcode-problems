@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 | [1922-count-good-numbers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1922-count-good-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
 | ------- |
