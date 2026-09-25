@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Linked List
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sorting
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -186,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
