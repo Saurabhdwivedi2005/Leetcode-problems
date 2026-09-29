@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0876-middle-of-the-linked-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
 | [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -110,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
