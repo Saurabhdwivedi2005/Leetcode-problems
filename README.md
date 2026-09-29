@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1260-shift-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Simulation
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0198-house-robber) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Enumeration
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Trie
 |  |
 | ------- |
