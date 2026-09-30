@@ -6,9 +6,9 @@ public:
         for(int i=0;i<seq.length();i++){
             if(seq[i]=='('){
                 depth++;
-                ans[i]=depth%2;
+                ans[i]=1-depth%2;
             }else if(seq[i]==')'){
-                ans[i]=depth%2;
+                ans[i]=1-depth%2;
                 depth--;
             }
         }
