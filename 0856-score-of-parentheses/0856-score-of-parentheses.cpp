@@ -8,10 +8,15 @@ public:
                 st.push(0);
             }
             else{
-                int x=st.top();
+                int inside=st.top();
                 st.pop();
-                int score= (x==0) ?1 :2*x;
-                st.top() += score;
+                int score=0;
+                if(inside==0){
+                    score=1;
+                }else{
+                    score=2*inside;
+                }
+               st.top() += score;
             }
         }
         return st.top();
