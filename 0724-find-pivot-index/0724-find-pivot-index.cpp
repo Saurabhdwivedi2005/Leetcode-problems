@@ -14,8 +14,6 @@ public:
             suffix[i]=suffix[i+1]+nums[i];
         }
         for(int i=0;i<n;i++){
-            int left=0;
-            int right=0;
             if(prefix[i]==suffix[i]){
                 return i;
             }
