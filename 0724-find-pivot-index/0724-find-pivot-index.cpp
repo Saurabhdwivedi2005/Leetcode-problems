@@ -16,15 +16,9 @@ public:
         for(int i=0;i<n;i++){
             int left=0;
             int right=0;
-            if(i>0){
-                left=prefix[i-1];
-
-            }
-            if(i<n-1){
-                right = suffix[i + 1];
-            }
-            if(left==right)
+            if(prefix[i]==suffix[i]){
                 return i;
+            }
         }
         return -1;
     }
