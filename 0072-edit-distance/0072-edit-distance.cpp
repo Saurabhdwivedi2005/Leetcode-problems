@@ -1,7 +1,7 @@
 class Solution {
 public:
     int dp[501][501];
-    int helper(int i,int j,const string& word1, const string& word2){
+    int helper(int i,int j,string word1, string word2){
         if(i == word1.size()) {
             return word2.length() - j;
         }
