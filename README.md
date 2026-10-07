@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0198-house-robber) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
