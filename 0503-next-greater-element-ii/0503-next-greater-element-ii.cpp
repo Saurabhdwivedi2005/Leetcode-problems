@@ -12,8 +12,6 @@ public:
             }if(i<n){
                 if(!st.empty()){
                     res[i]=nums[st.top()];
-                }else{
-                    res[i]=-1;
                 }
                 
             }
