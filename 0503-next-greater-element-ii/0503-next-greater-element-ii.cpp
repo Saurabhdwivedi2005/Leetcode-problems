@@ -17,7 +17,7 @@ public:
                 }
                 
             }
-            st.push(i%n);
+            st.push(index);
         }
         return res;
         
