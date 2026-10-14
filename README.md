@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
