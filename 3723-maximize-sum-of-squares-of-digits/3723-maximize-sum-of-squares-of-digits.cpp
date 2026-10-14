@@ -2,7 +2,7 @@ class Solution {
 public:
     string maxSumOfSquares(int num, int sum) {
         string ans="";
-        int digit=INT_MAX;
+        int digit;
         if(sum>9*num) return ans;
         while(num>0){
             digit=min(9,sum);
@@ -11,6 +11,5 @@ public:
             num--;
         }
         return ans;
-        
     }
 };
