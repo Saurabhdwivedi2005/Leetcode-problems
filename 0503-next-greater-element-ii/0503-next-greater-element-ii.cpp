@@ -13,11 +13,9 @@ public:
                 if(!st.empty()){
                     res[i]=nums[st.top()];
                 }
-                
             }
             st.push(index);
         }
         return res;
-        
     }
 };
