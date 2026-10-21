@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Monotonic Stack
 |  |
 | ------- |
