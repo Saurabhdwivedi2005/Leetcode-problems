@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0724-find-pivot-index) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0198-house-robber) |
+| [0518-coin-change-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -282,4 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0102-binary-tree-level-order-traversal) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
