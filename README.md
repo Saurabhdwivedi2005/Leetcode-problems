@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0198-house-robber) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0518-coin-change-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0846-hand-of-straights](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0846-hand-of-straights) |
 | [0922-sort-array-by-parity-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1096-brace-expansion-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1096-brace-expansion-ii) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1922-count-good-numbers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1922-count-good-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
