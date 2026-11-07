@@ -1,21 +1,21 @@
 class Solution {
 public:
-    
-   
-    int rob(vector<int>& nums) {
-        int n=nums.size();
-        vector<int>dp(n,-1);
-        if(n==0){
+    int dp[101];
+    int solve(int i,vector<int> &nums){
+        if(i>=nums.size()){
             return 0;
         }
-        if(n==1){
-            return nums[0];
+        if(dp[i]!=-1){
+            return dp[i];
         }
-        dp[0]=nums[0];
-        dp[1]=max(nums[0],nums[1]);
-        for(int i=2;i<n;i++){
-            dp[i]=max(dp[i-1],nums[i]+dp[i-2]);
-        }
-        return dp[n-1];
+        int take=nums[i]+solve(i+2,nums);
+        int skip=solve(i+1,nums);
+        return dp[i]= max(take,skip);
+    }
+    int rob(vector<int>& nums) {
+        int n=nums.size();
+        memset(dp,-1,sizeof(dp));
+        return solve(0,nums);
+        
     }
 };
