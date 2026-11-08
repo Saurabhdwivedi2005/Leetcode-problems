@@ -14,8 +14,12 @@ public:
                 j--;
             }
         }
-        return cnt==s.size();
+        if(cnt==s.size()){
+            return true;
+        }else{
+            return false;
+        }
         
-        
+        return-1;
     }
 };
