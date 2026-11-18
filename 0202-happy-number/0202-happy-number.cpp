@@ -1,21 +1,16 @@
-
 class Solution {
 public:
     bool isHappy(int n) {
-        unordered_set<int> st;
+        unordered_set<int>st;
 
         while(n != 1) {
-
-            // Check if number is already visited
+            int sum = 0;
             if(st.find(n) != st.end()) {
                 return false;
             }
 
             st.insert(n);
 
-            int sum = 0;
-
-            // Calculate sum of squares of digits
             while(n > 0) {
                 int digit = n % 10;
                 sum += digit * digit;
@@ -28,4 +23,3 @@ public:
         return true;
     }
 };
-
