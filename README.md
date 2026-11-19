@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0392-is-subsequence) |
+| [0516-longest-palindromic-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0907-sum-of-subarray-minimums) |
