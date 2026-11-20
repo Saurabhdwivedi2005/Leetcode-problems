@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0516-longest-palindromic-subsequence) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -339,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0202-happy-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
