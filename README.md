@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0451-sort-characters-by-frequency) |
