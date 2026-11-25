@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1922-count-good-numbers](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1922-count-good-numbers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Recursion
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0389-find-the-difference) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
