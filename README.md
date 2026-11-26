@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0455-assign-cookies) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Saurabhdwivedi2005/Leetcode-problems/tree/master/0072-edit-distance) |
